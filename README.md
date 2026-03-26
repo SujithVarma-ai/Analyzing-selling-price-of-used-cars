@@ -20,7 +20,7 @@ Users can input car details and instantly get an estimated resale price.
 
 ## App Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/SujithVarma-ai/Analyzing-selling-price-of-used-cars/main/Screenshot%202026-03-25%231235.png)
+![App Screenshot](https://github.com/SujithVarma-ai/Analyzing-selling-price-of-used-cars/blob/main/Screenshot%202026-03-26%20231235.png)
 
 ## Input Parameters
 
