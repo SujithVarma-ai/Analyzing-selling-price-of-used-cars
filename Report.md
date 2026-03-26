@@ -115,7 +115,7 @@ This project demonstrates how machine learning can be effectively applied to pre
 
 ---
 
-## 13. References
+## References
 
 * Scikit-learn Documentation
 * Streamlit Documentation
