@@ -17,7 +17,7 @@ st.markdown("### Get Instant Valuation for Your Used Car")
 # -------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"C:\Users\nraja\Downloads\archive\CAR DETAILS FROM CAR DEKHO.csv")    
+    df = pd.read_csv("CAR DETAILS FROM CAR DEKHO.csv")
     return df
 
 df = load_data()
