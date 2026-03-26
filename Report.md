@@ -1,19 +1,19 @@
 # 🚗 Car Price Prediction System – Project Report
 
-## 1. Introduction
+## Introduction
 
 The automobile market has seen rapid growth, especially in the used car segment. Determining the correct selling price of a used car is a complex task influenced by multiple factors such as age, mileage, fuel type, and ownership history.
 
 This project aims to develop a **machine learning-based system** that predicts the selling price of used cars using historical data. Additionally, a **Streamlit web application** is built to provide an interactive interface for users.
 
-## 2. Objectives
+## Objectives
 
 * To analyze factors affecting used car prices
 * To build a machine learning model for price prediction
 * To create an interactive web application using Streamlit
 * To provide real-time price estimation
 
-## 3. Dataset Description
+## Dataset Description
 
 The dataset used is **CarDekho Used Car Dataset**, which contains details of various used cars.
 
@@ -27,7 +27,7 @@ The dataset used is **CarDekho Used Car Dataset**, which contains details of var
 * Transmission
 * Owner type
 
-## 4. System Architecture
+## System Architecture
 
 ### Workflow:
 
@@ -41,7 +41,7 @@ Data Collection → Data Preprocessing → Model Training → Prediction → Web
 * **Backend:** Python
 * **Model:** Linear Regression
 
-## 5. Data Preprocessing
+## Data Preprocessing
 
 The dataset undergoes the following preprocessing steps:
 
@@ -50,7 +50,7 @@ The dataset undergoes the following preprocessing steps:
 * Selection of relevant features
 * Splitting input (X) and output (y)
 
-## 6. Model Development
+## Model Development
 
 ### Algorithm Used:
 
@@ -70,7 +70,7 @@ The dataset undergoes the following preprocessing steps:
 * Transmission
 * Owner
 
-## 7. Implementation
+## Implementation
 
 ### Tools & Libraries:
 
@@ -90,18 +90,18 @@ The dataset undergoes the following preprocessing steps:
   * Price range
   * Depreciation
 
-## 8. Results
+## Results
 
 The system successfully predicts the approximate selling price of used cars based on user inputs. The Streamlit interface allows real-time interaction and improves usability.
 
-## 9. Advantages
+## Advantages
 
 * Easy to use interface
 * Fast prediction
 * Helps in decision-making
 * Real-world application
 
-## 11. Future Enhancements
+## Future Enhancements
 
 * Use advanced models (Random Forest, XGBoost)
 * Add graphical analysis
@@ -109,7 +109,7 @@ The system successfully predicts the approximate selling price of used cars base
 * Deploy with scalable backend
 * Integrate real-time car market data
 
-## 12. Conclusion
+## Conclusion
 
 This project demonstrates how machine learning can be effectively applied to predict used car prices. By combining data analysis with a web interface, the system provides a practical and user-friendly solution for price estimation.
 
