@@ -6,16 +6,12 @@ The automobile market has seen rapid growth, especially in the used car segment.
 
 This project aims to develop a **machine learning-based system** that predicts the selling price of used cars using historical data. Additionally, a **Streamlit web application** is built to provide an interactive interface for users.
 
----
-
 ## 2. Objectives
 
 * To analyze factors affecting used car prices
 * To build a machine learning model for price prediction
 * To create an interactive web application using Streamlit
 * To provide real-time price estimation
-
----
 
 ## 3. Dataset Description
 
@@ -31,8 +27,6 @@ The dataset used is **CarDekho Used Car Dataset**, which contains details of var
 * Transmission
 * Owner type
 
----
-
 ## 4. System Architecture
 
 ### Workflow:
@@ -47,8 +41,6 @@ Data Collection → Data Preprocessing → Model Training → Prediction → Web
 * **Backend:** Python
 * **Model:** Linear Regression
 
----
-
 ## 5. Data Preprocessing
 
 The dataset undergoes the following preprocessing steps:
@@ -57,8 +49,6 @@ The dataset undergoes the following preprocessing steps:
 * Encoding categorical variables using LabelEncoder
 * Selection of relevant features
 * Splitting input (X) and output (y)
-
----
 
 ## 6. Model Development
 
@@ -80,8 +70,6 @@ The dataset undergoes the following preprocessing steps:
 * Transmission
 * Owner
 
----
-
 ## 7. Implementation
 
 ### Tools & Libraries:
@@ -102,13 +90,9 @@ The dataset undergoes the following preprocessing steps:
   * Price range
   * Depreciation
 
----
-
 ## 8. Results
 
 The system successfully predicts the approximate selling price of used cars based on user inputs. The Streamlit interface allows real-time interaction and improves usability.
-
----
 
 ## 9. Advantages
 
@@ -117,16 +101,6 @@ The system successfully predicts the approximate selling price of used cars base
 * Helps in decision-making
 * Real-world application
 
----
-
-## 10. Limitations
-
-* Uses basic Linear Regression
-* Accuracy depends on dataset quality
-* Limited features considered
-
----
-
 ## 11. Future Enhancements
 
 * Use advanced models (Random Forest, XGBoost)
@@ -134,8 +108,6 @@ The system successfully predicts the approximate selling price of used cars base
 * Improve UI/UX design
 * Deploy with scalable backend
 * Integrate real-time car market data
-
----
 
 ## 12. Conclusion
 
