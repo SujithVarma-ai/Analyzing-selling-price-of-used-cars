@@ -5,8 +5,7 @@ https://analyzing-selling-price-of-used-cars-ktb8wptbebpbktbedtneml.streamlit.ap
 
 ## Overview
 
-This project predicts the **selling price of used cars** using Machine Learning.
-Users can input car details and instantly get an estimated resale price.
+This project uses Machine Learning to estimate the resale value of used cars based on user-provided vehicle details, delivering instant price predictions.
 
 ## Features
 
